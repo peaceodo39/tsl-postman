@@ -1,0 +1,53 @@
+.ivu-collapse-content {
+    padding: 0 0px;
+}
+
+.ivu-collapse-content > .ivu-collapse-content-box {
+    padding-top: 0px;
+}
+
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.request_type{
+    color: blueviolet;
+    font-weight: bold;
+}
+.group_type{
+    color: blue;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.api-li{
+    width: auto;
+    border: #515a6e 2px solid;
+    font-size: 16px;
+    margin-bottom: 3px;
+}
+.api-li-ws{
+    width: auto;
+    border: #5bbe21 2px solid;
+    font-size: 16px;
+    margin-bottom: 3px;
+}
+.api-li-test{
+    width: auto;
+    border: #e42b92 2px solid;
+    font-size: 16px;
+    margin-bottom: 3px;
+}
+.layout{
+    min-width: 1200px;
+}
+.ivu-layout-footer{
+    text-align: center;
+    padding: 14px 50px;
+}
+
+.listdiv25{
+    width: 260px;
+    overflow-y: scroll;
+}
