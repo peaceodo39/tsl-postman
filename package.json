@@ -1,6 +1,6 @@
 {
   "name": "tsl-postman",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "base_version": "3",
   "author": "tsl-postman team",
   "description": "一个开源的/无服务器的api测试工具",
